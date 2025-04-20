@@ -1,6 +1,6 @@
 <h1>VKrDownloader</h1>
 <p>
-    Video Downloader by Vijay Kumar 
+    Video Downloader by Brandon Kibet 
     <a href="https://instagram.com/theofficialvkr">@TheOfficialVKr</a> 
 </p>
     <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @vkrdownloader</a></li>
