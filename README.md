@@ -1,14 +1,14 @@
-<h1>VKrDownloader</h1>
+<h1>Brandon's Downloader</h1>
 <p>
     Video Downloader by Brandon Kibet 
     <a href="https://instagram.com/theofficialvkr">@TheOfficialVKr</a> 
 </p>
-    <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @vkrdownloader</a></li>
+    <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @Itz_RK_Officially</a></li>
 
  <h2>Demo</h2>   
- Light theme https://theofficialvkr.github.io/VKrDownloader/
+ Light theme https://brandon-rk.github.io/Brandon-s-Video-Downloader-/
  <br>
- Dark Theme https://theofficialvkr.github.io/VKrDownloader/dark.html
+ Dark Theme https://brandon-rk.github.io/Brandon-s-Video-Downloader-/
  <hr>
 
  
@@ -26,7 +26,7 @@
 
 <h2>Support Me</h2>
 
-### Notice: Support Needed to Keep VKrDownloader Alive
+### Notice: Support Needed to Keep Brandon's Downloader Alive
 
 <hr>
 
@@ -36,14 +36,14 @@
     <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg">
 </a>
 <br>
-<a href="https://www.buymeacoffee.com/theofficialvkr">
+<a href="https://www.buymeacoffee.com/Itz RK">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=theofficialvkr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00">
 </a>
 
 
 <h2>API Documentation</h2>
 
-<p>With the VKrDownloader API, you can programmatically download videos from supported sites.</p>
+<p>With the Brandon's Downloader API, you can programmatically download videos from supported sites.</p>
 
 <h3>API Endpoint</h3>
 <pre><code>GET https://vkrdownloader.xyz/server/?api_key=API-KEY&vkr=VIDEO_URL</code></pre>
@@ -110,11 +110,11 @@
 <h4>Example (Header)</h4>
 <pre><code>curl -X POST https://vkrdownloader.xyx/server/ \
 -H "x-api-key: YOUR_API_KEY" \
--d "vkr=https://youtu.be/3VxnPQWvg5w"
+-d ""
 </code></pre>
 
 <p>For more information about obtaining an API key, please 
-<a href="mailto:contactvkr@yahoo.com">contact us</a>.</p>
+<a href="brandonkibet350@gmail.com">contact us</a>.</p>
 
 <hr>
 
@@ -129,7 +129,7 @@
 <hr>
 
 <h2>Demo</h2>
-<p><a href="https://theofficialvkr.github.io/VKrDownloader/">https://theofficialvkr.github.io/VKRdownloader/</a></p>
+<p><a href="https://brandon-rk.github.io/Brandon-s-Video-Downloader-/">https://brandon-rk.github.io/Brandon-s-Video-Downloader-/</a></p>
 
 <hr>
 
@@ -155,5 +155,5 @@
 
 
 <h2>At Last, Remember</h2>
-<p>I am not the Developer 👍</p>
+<p>I am not the Developer but a Tech Enthusiast 👍</p>
 
