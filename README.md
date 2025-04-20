@@ -3,7 +3,7 @@
     Video Downloader by Brandon Kibet 
     <a href="[](https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==)]()"></a> 
 </p>
-    <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @Itz_RK_Officially</a></li>
+    <li><strong>Telegram</strong>: <a href="t.me/Itz_RK_Officially">join telegram @Itz_RK_Officially</a></li>
 
  <h2>Demo</h2>   
  Light theme https://brandon-rk.github.io/Brandon-s-Video-Downloader-/
@@ -135,15 +135,15 @@
 
 <h2>Updates</h2>
 <p>Check all updates here:  
-<a href="https://github.com/theofficialvkr/VKRdownloader/blob/main/updates.md">Updates Page</a></p>
+<a href="[https://github.com/Brandon-RK/Brandon-s-Video-Downloader-/blob/main/README.md(https://github.com/Brandon-RK/Brandon-s-Video-Downloader-/blob/main/README.md)">Updates Page</a></p>
 
 <hr>
 
 <h2>Need Help?</h2>
 <p>Contact me for any kind of help:</p>
 <ul>
-    <li><strong>Email</strong>: <a href="mailto: brandonkibet350@gmail.com">contactvkr@yahoo.com</a></li>
-    <li><strong>Instagram</strong>: <a href="[https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==](https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==)">@theofficialvkr</a></li>
+    <li><strong>Email</strong>: <a href="mailto: brandonkibet350@gmail.com">brandonkibet350@gmail.com</a></li>
+    <li><strong>Instagram</strong>: <a href="[https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==](https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==)">@https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==</a></li>
     <li><strong>Twitter</strong>: <a href="[https://twitter.com/theofficialvkr]()">@[https://x.com/Itz_RK_Official?t=iqpxXzD8Rn2C92u_dUTRPw&s=09](https://x.com/Itz_RK_Official?t=iqpxXzD8Rn2C92u_dUTRPw&s=09)</a></li>
     <li><strong>Facebook</strong>: <a href="https://www.facebook.com/ITZRKOFFICIAL254">@https://www.facebook.com/ITZRKOFFICIAL254</a></li>
     <li><strong>Telegram</strong>: <a href="t.me/Itz_RK_Officially">@t.me/Itz_RK_Officially</a></li>
