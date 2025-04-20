@@ -1,7 +1,7 @@
 <h1>Brandon's Downloader</h1>
 <p>
     Video Downloader by Brandon Kibet 
-    <a href="https://instagram.com/theofficialvkr">@TheOfficialVKr</a> 
+    <a href="[](https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==)]()"></a> 
 </p>
     <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @Itz_RK_Officially</a></li>
 
@@ -114,7 +114,7 @@
 </code></pre>
 
 <p>For more information about obtaining an API key, please 
-<a href="brandonkibet350@gmail.com">contact us</a>.</p>
+<a href="mailto: brandonkibet350@gmail.com">contact us</a>.</p>
 
 <hr>
 
@@ -123,7 +123,7 @@
     <li>Upload zip files to your server or hosting platform.</li>
     <li>Unzip the file in your file manager.</li>
     <li>This project works on almost all free/paid hosting, so don't worry about specific requirements.</li>
-    <li>That's it! Open your site, and VKrDownloader will start working immediately.</li>
+    <li>That's it! Open your site, and Brandon's Downloader will start working immediately.</li>
 </ol>
 
 <hr>
@@ -142,12 +142,12 @@
 <h2>Need Help?</h2>
 <p>Contact me for any kind of help:</p>
 <ul>
-    <li><strong>Email</strong>: <a href="mailto:contactvkr@yahoo.com">contactvkr@yahoo.com</a></li>
-    <li><strong>Instagram</strong>: <a href="https://instagram.com/theofficialvkr">@theofficialvkr</a></li>
-    <li><strong>Twitter</strong>: <a href="https://twitter.com/theofficialvkr">@theofficialvkr</a></li>
-    <li><strong>Facebook</strong>: <a href="https://facebook.com/theofficialvkr">@theofficialvkr</a></li>
-    <li><strong>Telegram</strong>: <a href="https://t.me/theofficialvkr">@theofficialvkr</a></li>
-        <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">@vkrdownloader</a></li>
+    <li><strong>Email</strong>: <a href="mailto: brandonkibet350@gmail.com">contactvkr@yahoo.com</a></li>
+    <li><strong>Instagram</strong>: <a href="[https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==](https://www.instagram.com/_itz.rk_official?igsh=OGQ5ZDc2ODk2ZA==)">@theofficialvkr</a></li>
+    <li><strong>Twitter</strong>: <a href="[https://twitter.com/theofficialvkr]()">@[https://x.com/Itz_RK_Official?t=iqpxXzD8Rn2C92u_dUTRPw&s=09](https://x.com/Itz_RK_Official?t=iqpxXzD8Rn2C92u_dUTRPw&s=09)</a></li>
+    <li><strong>Facebook</strong>: <a href="https://www.facebook.com/ITZRKOFFICIAL254">@https://www.facebook.com/ITZRKOFFICIAL254</a></li>
+    <li><strong>Telegram</strong>: <a href="t.me/Itz_RK_Officially">@t.me/Itz_RK_Officially</a></li>
+        <li><strong>Telegram</strong>: <a href="t.me/Itz_RK_Officially">@t.me/Itz_RK_Officially</a></li>
 </ul>
 
 <hr>
